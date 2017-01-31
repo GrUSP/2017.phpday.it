@@ -1,139 +1,61 @@
 # place images in:
 # img/conf-name/speaker/file.jpg
-call_for_paper_url: https://goo.gl/forms/NpVU3q7xmcSaspsJ2
+call_for_paper_url: http://cfp.phpday.it/
 call_for_paper: true
 list:
   -
-    id: rasmus-lerdorf
-    description: Rasmus Lerdorf bio
-    image: nicolas-cage.jpg
-    first_name: Rasmus
-    last_name: Lerdorf
-    twitter: rasmuslerdorf
+    id: antonio-peric
+    description:
+    image: antonio-peric.png
+    first_name: Antonio
+    last_name: Peric
+    twitter: antonioperic
   -
-    id: nicolas-cage
-    description: Just another developer
-    image: nicolas-cage.jpg
-    first_name: Nicolas
-    last_name: Cage
-    twitter: nicolascage_
+    id: gary-hockin
+    description:
+    image: gary-hockin.png
+    first_name: Gary
+    last_name: Hockin
+    twitter: GeeH
   -
-    description: Just another developer
-    image: nicolas-cage.jpg
-    first_name: Nicolas
-    last_name: Cage
-    twitter: nicolascage_
+    id: graham-daniels
+    description:
+    image: graham-daniels.jpg
+    first_name: Graham
+    last_name: Daniels
+    twitter: greydnls
   -
-    description: Just another developer
-    image: nicolas-cage.jpg
-    first_name: Nicolas
-    last_name: Cage
-    twitter: nicolascage_
+    id: larry-garfield
+    description:
+    image: larry-garfield.jpg
+    first_name: Larry
+    last_name: Garfield
+    twitter: Crell
   -
-    description: Just another developer
-    image: nicolas-cage.jpg
-    first_name: Nicolas
-    last_name: Cage
-    twitter: nicolascage_
+    id: michelangelo-van-dam
+    description:
+    image: michelangelo-van-dam.jpg
+    first_name: Michelangelo
+    last_name: Van Dam
+    twitter: DragonBe
   -
-    description: Just another developer
-    image: nicolas-cage.jpg
-    first_name: Nicolas
-    last_name: Cage
-    twitter: nicolascage_
+    id: miro-svrtan
+    description:
+    image: miro-svrtan.png
+    first_name: Miro
+    last_name: Svrtan
+    twitter: msvrtan
   -
-    description: Just another developer
-    image: nicolas-cage.jpg
-    first_name: Nicolas
-    last_name: Cage
-    twitter: nicolascage_
+    id: rafael-dhohms
+    description:
+    image: rafael-dohms.png
+    first_name: Rafael
+    last_name: Dohms
+    twitter: rdohms
   -
-    description: Just another developer
-    image: nicolas-cage.jpg
-    first_name: Nicolas
-    last_name: Cage
-    twitter: nicolascage_
-  -
-    description: Just another developer
-    image: nicolas-cage.jpg
-    first_name: Nicolas
-    last_name: Cage
-    twitter: nicolascage_
-  -
-    description: Just another developer
-    image: nicolas-cage.jpg
-    first_name: Nicolas
-    last_name: Cage
-    twitter: nicolascage_
-  -
-    description: Just another developer
-    image: nicolas-cage.jpg
-    first_name: Nicolas
-    last_name: Cage
-    twitter: nicolascage_
-  -
-    description: Just another developer
-    image: nicolas-cage.jpg
-    first_name: Nicolas
-    last_name: Cage
-    twitter: nicolascage_
-  -
-    description: Just another developer
-    image: nicolas-cage.jpg
-    first_name: Nicolas
-    last_name: Cage
-    twitter: nicolascage_
-  -
-    description: Just another developer
-    image: nicolas-cage.jpg
-    first_name: Nicolas
-    last_name: Cage
-    twitter: nicolascage_
-  -
-    description: Just another developer
-    image: nicolas-cage.jpg
-    first_name: Nicolas
-    last_name: Cage
-    twitter: nicolascage_
-  -
-    description: Just another developer
-    image: nicolas-cage.jpg
-    first_name: Nicolas
-    last_name: Cage
-    twitter: nicolascage_
-  -
-    description: Just another developer
-    image: nicolas-cage.jpg
-    first_name: Nicolas
-    last_name: Cage
-    twitter: nicolascage_
-  -
-    description: Just another developer
-    image: nicolas-cage.jpg
-    first_name: Nicolas
-    last_name: Cage
-    twitter: nicolascage_
-  -
-    description: Just another developer
-    image: nicolas-cage.jpg
-    first_name: Nicolas
-    last_name: Cage
-    twitter: nicolascage_
-  -
-    description: Just another developer
-    image: nicolas-cage.jpg
-    first_name: Nicolas
-    last_name: Cage
-    twitter: nicolascage_
-  -
-    description: Just another developer
-    image: nicolas-cage.jpg
-    first_name: Nicolas
-    last_name: Cage
-    twitter: nicolascage_
-  -
-    description: Just another developer
-    image: nicolas-cage.jpg
-    first_name: Nicolas
-    last_name: Cage
-    twitter: nicolascage_
+    id: vasco-duarte
+    description:
+    image: vasco-duarte.png
+    first_name: Vasco
+    last_name: Duarte
+    twitter: duarte_vasco
