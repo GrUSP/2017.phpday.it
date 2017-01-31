@@ -11,7 +11,6 @@ main:
     - 1 dedicated session (30 mins max)
     - Access to opt-in attendees list
     - One direct email marketing campaign
-    - Your logo on conference programme
     - Your logo on conference rollups
     - Your own rollups in two rooms
     - Stand (table 2m x 1m)
@@ -27,15 +26,14 @@ main:
 diamond:
   price: € 5,000
   offer:
-    - Access to opt-in attendees list
-    - One direct email marketing campaign
-    - Your logo on conference programme
+    - 1 dedicated session (30 mins max)
+    - Your logo on conference website
     - Your logo on conference rollups
     - Your own rollups in two rooms
     - Stand (table 2m x 1m)
     - Your own flyer and/or gadget in folder
-    - 5 free tickets
-    - 5 tickets with 50% discount
+    - 2 free tickets
+    - 5 tickets with 20% discount
   max: 2
   list:
     -
@@ -48,14 +46,13 @@ diamond:
 platinum:
   price: € 3,000
   offer:
-    - 1 dedicated session (30 mins max)
-    - Access to opt-in attendees list
-    - One direct email marketing campaign
-    - Your logo on conference programme
+    - Your logo on conference website
     - Your logo on conference rollups
-    - Your own rollups in two rooms
-    - Stand (table 2m x 1m)
-    - 5 tickets with 50% discount
+    - Your own rollup in one room (of your choice)
+    - Stand (table 1m x 1m)
+    - Your own flyer and/or gadget in folder
+    - 1 free ticket
+    - 5 tickets with 15% discount
   max: 4
   list:
     -
@@ -74,12 +71,11 @@ platinum:
 gold:
   price: € 1,000
   offer:
-    - 1 dedicated session (30 mins max)
-    - Access to opt-in attendees list
-    - One direct email marketing campaign
-    - Your logo on conference programme
+    - Your logo on conference website
     - Your logo on conference rollups
-    - 5 tickets with 50% discount
+    - Your own rollup in one room (chosen by the organization)
+    - Your own flyer and/or gadget in folder
+    - 3 tickets with 15% discount
   max: 8
   list:
     -
@@ -92,11 +88,10 @@ gold:
 silver:
   price: € 500
   offer:
-    - 1 dedicated session (30 mins max)
-    - Access to opt-in attendees list
-    - One direct email marketing campaign
-    - Your logo on conference programme
-    - 5 tickets with 50% discount
+    - Your logo on conference website
+    - Your logo on conference rollups
+    - Your own flyer and/or gadget in folder (provided by you)
+    - 3 tickets with 10% discount
   max: 4
   list:
     -
@@ -106,6 +101,6 @@ silver:
 bronze:
   price: € 300
   offer:
-    - Your logo on conference programme
-    - 2 tickets with 50% discount
+    - Your logo on conference website
+    - 2 tickets with 10% discount
   max: 8
