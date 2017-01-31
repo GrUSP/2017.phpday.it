@@ -1,25 +1,25 @@
 list:
   -
-    url: http://adespresso.com
-    image: sponsor_inode.png
+    url: http://www.apogeonline.com/
+    image: partner_apogeo.svg
   -
-    url: http://i3p.com
-    image: fabbrucci.png
+    url: http://www.cloudconf.it/
+    image: partner_cloudconf.svg
   -
-    url: http://adespresso.com
-    image: faventia.jpg
+    url: http://www.codemotionworld.com/
+    image: partner_codemotion.svg
   -
-    url: http://i3p.com
-    image: sponsor_3.jpg
+    url: http://www.frontenders.ch/
+    image: partner_frontenders_ticino.svg
   -
-    url: http://adespresso.com
-    image: sponsor_inode.png
+    url: http://www.programmersinpadua.it/
+    image: partner_programmers_in_padua.svg
   -
-    url: http://i3p.com
-    image: fabbrucci.png
+    url: http://www.tomshw.it/
+    image: partner_toms_hardware.svg
   -
-    url: http://adespresso.com
-    image: faventia.jpg
+    url: http://webdebs.org/
+    image: partner_webdebs.svg
   -
-    url: http://i3p.com
-    image: sponsor_3.jpg
+    url: https://www.facebook.com/groups/webdeveloperitaliani/
+    image: partner_webdeveloperitaliani.svg
