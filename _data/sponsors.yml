@@ -2,7 +2,7 @@
 # img/sponsors/file.jpg
 # img/sponsors/guide.pdf
 
-pdf: sponsor_adespresso.png
+pdf: grusp_2017.pdf
 call_for_sponsor: true
 
 main:
@@ -21,8 +21,8 @@ main:
   max: 1
   list:
     -
-      url: http://adespresso.com
-      image: sponsor_adespresso.png
+      url:
+      image:
 
 diamond:
   price: € 5,000
@@ -39,9 +39,11 @@ diamond:
   max: 2
   list:
     -
-      url: http://adespresso.com
-      image: sponsor_adespresso.png
-
+      url:
+      image:
+    -
+      url:
+      image:
 
 platinum:
   price: € 3,000
@@ -57,11 +59,17 @@ platinum:
   max: 4
   list:
     -
-      url: http://adespresso.com
-      image: sponsor_inode.png
+      url:
+      image:
     -
-      url: http://i3p.com
-      image: fabbrucci.png
+      url:
+      image:
+    -
+      url:
+      image:
+    -
+      url:
+      image:
 
 gold:
   price: € 1,000
@@ -75,14 +83,11 @@ gold:
   max: 8
   list:
     -
-      url: http://adespresso.com
-      image: sponsor_inode.png
+      url: http://www.avanscoperta.it/
+      image: sponsor_avanscoperta.png
     -
-      url: http://i3p.com
-      image: fabbrucci.png
-    -
-      url: http://adespresso.com
-      image: faventia.jpg
+      url: http://www.madisoft.it/?utm_source=phpday
+      image: sponsor_madisoft.png
 
 silver:
   price: € 500
@@ -95,17 +100,8 @@ silver:
   max: 4
   list:
     -
-      url: http://adespresso.com
-      image: sponsor_inode.png
-    -
-      url: http://i3p.com
-      image: fabbrucci.png
-    -
-      url: http://adespresso.com
-      image: faventia.jpg
-    -
-      url: http://i3p.com
-      image: sponsor_3.jpg
+      url: http://www.neen.it/
+      image: sponsor_neen.png
 
 bronze:
   price: € 300
@@ -113,19 +109,3 @@ bronze:
     - Your logo on conference programme
     - 2 tickets with 50% discount
   max: 8
-  list:
-    -
-      url: http://adespresso.com
-      image: sponsor_inode.png
-    -
-      url: http://i3p.com
-      image: fabbrucci.png
-    -
-      url: http://adespresso.com
-      image: faventia.jpg
-    -
-      url: http://i3p.com
-      image: sponsor_3.jpg
-    -
-      url: http://adespresso.com
-      image: sponsor_inode.png
