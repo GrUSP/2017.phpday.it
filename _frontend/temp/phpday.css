@@ -3377,7 +3377,7 @@ body {
 }
 
 .sponsors__main-column:nth-child(even) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__main-column .sponsors__image {
@@ -3431,7 +3431,7 @@ body {
 }
 
 .sponsors__diamond-column:nth-child(odd) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__diamond-column .sponsors__image {
@@ -3488,43 +3488,43 @@ body {
 }
 
 .sponsors__platinum-column:nth-child(2) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__platinum-column:nth-child(3) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__platinum-column:nth-child(6) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__platinum-column:nth-child(7) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__platinum-column:nth-child(10) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__platinum-column:nth-child(11) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__platinum-column:nth-child(14) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__platinum-column:nth-child(15) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__platinum-column:nth-child(18) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__platinum-column:nth-child(19) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 @media (max-width: 767px) {
@@ -3532,7 +3532,7 @@ body {
     background-color: whitesmoke;
   }
   .sponsors__platinum-column:nth-child(odd) {
-    background-color: #dce6f9;
+    background-color: whitesmoke;
   }
 }
 
@@ -3586,43 +3586,43 @@ body {
 }
 
 .sponsors__gold-column:nth-child(2) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__gold-column:nth-child(3) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__gold-column:nth-child(6) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__gold-column:nth-child(7) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__gold-column:nth-child(10) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__gold-column:nth-child(11) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__gold-column:nth-child(14) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__gold-column:nth-child(15) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__gold-column:nth-child(18) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__gold-column:nth-child(19) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 @media (max-width: 767px) {
@@ -3630,7 +3630,7 @@ body {
     background-color: whitesmoke;
   }
   .sponsors__gold-column:nth-child(odd) {
-    background-color: #dce6f9;
+    background-color: whitesmoke;
   }
 }
 
@@ -3684,63 +3684,63 @@ body {
 }
 
 .sponsors__silver-column:nth-child(1) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__silver-column:nth-child(3) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__silver-column:nth-child(5) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__silver-column:nth-child(7) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__silver-column:nth-child(9) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__silver-column:nth-child(11) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__silver-column:nth-child(13) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__silver-column:nth-child(15) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__silver-column:nth-child(17) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__silver-column:nth-child(19) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__silver-column:nth-child(21) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__silver-column:nth-child(23) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__silver-column:nth-child(25) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__silver-column:nth-child(27) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__silver-column:nth-child(29) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 @media (max-width: 767px) {
@@ -3748,7 +3748,7 @@ body {
     background-color: whitesmoke;
   }
   .sponsors__silver-column:nth-child(odd) {
-    background-color: #dce6f9;
+    background-color: whitesmoke;
   }
 }
 
@@ -3802,83 +3802,83 @@ body {
 }
 
 .sponsors__bronze-column:nth-child(2) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__bronze-column:nth-child(4) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__bronze-column:nth-child(5) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__bronze-column:nth-child(7) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__bronze-column:nth-child(10) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__bronze-column:nth-child(12) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__bronze-column:nth-child(13) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__bronze-column:nth-child(15) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__bronze-column:nth-child(18) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__bronze-column:nth-child(20) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__bronze-column:nth-child(21) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__bronze-column:nth-child(23) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__bronze-column:nth-child(26) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__bronze-column:nth-child(28) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__bronze-column:nth-child(29) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__bronze-column:nth-child(31) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__bronze-column:nth-child(34) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__bronze-column:nth-child(36) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__bronze-column:nth-child(37) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__bronze-column:nth-child(39) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 @media (max-width: 767px) {
@@ -3886,7 +3886,7 @@ body {
     background-color: whitesmoke;
   }
   .sponsors__bronze-column:nth-child(odd) {
-    background-color: #dce6f9;
+    background-color: whitesmoke;
   }
 }
 
@@ -3940,163 +3940,163 @@ body {
 }
 
 .sponsors__partner-column:nth-child(2) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__partner-column:nth-child(4) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__partner-column:nth-child(6) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__partner-column:nth-child(8) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__partner-column:nth-child(9) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__partner-column:nth-child(11) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__partner-column:nth-child(13) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__partner-column:nth-child(15) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__partner-column:nth-child(18) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__partner-column:nth-child(20) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__partner-column:nth-child(22) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__partner-column:nth-child(24) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__partner-column:nth-child(25) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__partner-column:nth-child(27) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__partner-column:nth-child(29) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__partner-column:nth-child(31) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__partner-column:nth-child(34) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__partner-column:nth-child(36) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__partner-column:nth-child(38) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__partner-column:nth-child(40) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__partner-column:nth-child(41) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__partner-column:nth-child(43) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__partner-column:nth-child(45) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__partner-column:nth-child(47) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__partner-column:nth-child(50) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__partner-column:nth-child(52) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__partner-column:nth-child(54) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__partner-column:nth-child(56) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__partner-column:nth-child(57) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__partner-column:nth-child(59) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__partner-column:nth-child(61) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__partner-column:nth-child(63) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__partner-column:nth-child(66) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__partner-column:nth-child(68) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__partner-column:nth-child(70) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__partner-column:nth-child(72) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__partner-column:nth-child(73) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__partner-column:nth-child(75) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__partner-column:nth-child(77) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 .sponsors__partner-column:nth-child(79) {
-  background-color: #dce6f9;
+  background-color: whitesmoke;
 }
 
 @media (max-width: 767px) {
@@ -4104,7 +4104,7 @@ body {
     background-color: whitesmoke;
   }
   .sponsors__partner-column:nth-child(odd) {
-    background-color: #dce6f9;
+    background-color: whitesmoke;
   }
 }
 
