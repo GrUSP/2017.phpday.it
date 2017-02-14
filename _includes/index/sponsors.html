@@ -28,7 +28,7 @@
       </div>
       {% endif %}
 
-      {% if site.data.sponsors.diamond and false %}
+      {% if site.data.sponsors.diamond.list | size  %}
       <div class="sponsors__category">
         <div class="sponsors__title">
           diamond
@@ -45,7 +45,7 @@
       </div>
       {% endif %}
 
-      {% if site.data.sponsors.platinum and false %}
+      {% if site.data.sponsors.platinum.list | size  %}
       <div class="sponsors__category">
         <div class="sponsors__title">
           platinum
@@ -62,7 +62,7 @@
       </div>
       {% endif %}
 
-      {% if site.data.sponsors.gold %}
+      {% if site.data.sponsors.gold.list | size %}
       <div class="sponsors__category">
         <div class="sponsors__title">
           gold
@@ -79,7 +79,7 @@
       </div>
       {% endif %}
 
-      {% if site.data.sponsors.silver %}
+      {% if site.data.sponsors.silver.list | size %}
       <div class="sponsors__category">
         <div class="sponsors__title">
           silver
@@ -96,7 +96,7 @@
       </div>
       {% endif %}
 
-      {% if site.data.sponsors.bronze and false %}
+      {% if site.data.sponsors.bronze.list | size %}
       <div class="sponsors__category">
         <div class="sponsors__title">
           bronze

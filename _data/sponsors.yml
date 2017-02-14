@@ -36,12 +36,6 @@ diamond:
     - 5 tickets with 20% discount
   max: 2
   list:
-    -
-      url:
-      image:
-    -
-      url:
-      image:
 
 platinum:
   price: € 3,000
@@ -56,17 +50,8 @@ platinum:
   max: 4
   list:
     -
-      url:
-      image:
-    -
-      url:
-      image:
-    -
-      url:
-      image:
-    -
-      url:
-      image:
+      url: http://www.ideato.it/?utm_source=phpday
+      image: ideato.svg
 
 gold:
   price: € 1,000
@@ -79,7 +64,7 @@ gold:
   max: 8
   list:
     -
-      url: http://www.avanscoperta.it/
+      url: http://www.avanscoperta.it/?utm_source=phpday
       image: sponsor_avanscoperta.png
     -
       url: http://www.madisoft.it/?utm_source=phpday
@@ -95,8 +80,11 @@ silver:
   max: 4
   list:
     -
-      url: http://www.neen.it/
+      url: http://www.neen.it/?utm_source=phpday
       image: sponsor_neen.png
+    -
+      url: https://www.siteground.it/?utm_source=phpday
+      image: siteground.svg
 
 bronze:
   price: € 300
