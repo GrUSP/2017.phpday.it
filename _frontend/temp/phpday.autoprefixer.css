@@ -780,7 +780,7 @@ template {
 body {
   background-color: white;
   color: #2d2d2d;
-  font-family: "proxima-nova", helvetica, arial, sans-serif;
+  font-family: helvetica, arial, sans-serif;
   font-weight: 400;
 }
 
@@ -788,7 +788,7 @@ body {
   color: #f45656;
   cursor: pointer;
   display: inline-block;
-  font-family: "proxima-nova", helvetica, arial, sans-serif;
+  font-family: helvetica, arial, sans-serif;
   font-style: normal;
   font-weight: 700;
   padding: 10px 20px;
@@ -1065,7 +1065,7 @@ body {
 }
 
 .follow-us__title {
-  font-family: "proxima-nova", helvetica, arial, sans-serif;
+  font-family: helvetica, arial, sans-serif;
   font-weight: 700;
   text-decoration: none;
   text-transform: uppercase;
@@ -1089,7 +1089,7 @@ body {
 
 @media (min-width: 1024px) {
   .footer {
-    padding-bottom: 60px;
+    padding-bottom: 115px;
   }
 }
 
@@ -1234,7 +1234,7 @@ body {
 }
 
 .header__conf-name {
-  font-family: "proxima-nova", helvetica, arial, sans-serif;
+  font-family: helvetica, arial, sans-serif;
   font-size: 18px;
   font-weight: 700;
   white-space: nowrap;
@@ -1322,7 +1322,7 @@ body {
 }
 
 .intro__title {
-  font-family: "proxima-nova", helvetica, arial, sans-serif;
+  font-family: helvetica, arial, sans-serif;
   font-size: 38px;
   margin-top: 40px;
 }
@@ -1372,7 +1372,7 @@ body {
   bottom: -130px;
   color: white;
   display: block;
-  font-family: "proxima-nova", helvetica, arial, sans-serif;
+  font-family: helvetica, arial, sans-serif;
   font-size: 24px;
   font-weight: 700;
   line-height: 90px;
@@ -1419,7 +1419,7 @@ body {
 
 .limit {
   overflow: hidden;
-  padding: 20px 40px;
+  padding: 20px;
   margin: auto;
 }
 
@@ -1674,7 +1674,7 @@ body {
 }
 
 .menu__conf-name {
-  font-family: "proxima-nova", helvetica, arial, sans-serif;
+  font-family: helvetica, arial, sans-serif;
   font-size: 18px;
   font-weight: 700;
   white-space: nowrap;
@@ -1742,7 +1742,7 @@ body {
 .menu__button {
   color: #f45656;
   display: inline-block;
-  font-family: "proxima-nova", helvetica, arial, sans-serif;
+  font-family: helvetica, arial, sans-serif;
   font-size: 40px;
   font-weight: 700;
   text-decoration: none;
@@ -1801,7 +1801,7 @@ body {
 
 .menu__register {
   color: inherit;
-  font-family: "proxima-nova", helvetica, arial, sans-serif;
+  font-family: helvetica, arial, sans-serif;
   font-size: 90px;
   font-weight: 700;
   margin-bottom: 60px;
@@ -1831,14 +1831,14 @@ body {
 }
 
 .newsletter__title {
-  font-family: "proxima-nova", helvetica, arial, sans-serif;
+  font-family: helvetica, arial, sans-serif;
   font-weight: 700;
   text-decoration: none;
   text-transform: uppercase;
 }
 
 .newsletter__text {
-  font-family: "proxima-nova", helvetica, arial, sans-serif;
+  font-family: helvetica, arial, sans-serif;
   font-weight: 700;
   text-decoration: none;
   text-transform: uppercase;
@@ -1973,7 +1973,7 @@ body {
 }
 
 .newsletter__language {
-  font-family: "proxima-nova", helvetica, arial, sans-serif;
+  font-family: helvetica, arial, sans-serif;
   font-weight: 700;
   text-decoration: none;
   text-transform: uppercase;
@@ -1989,7 +1989,7 @@ body {
 }
 
 .newsletter__link {
-  font-family: "proxima-nova", helvetica, arial, sans-serif;
+  font-family: helvetica, arial, sans-serif;
   font-weight: 700;
   text-decoration: none;
   text-transform: uppercase;
@@ -2018,7 +2018,7 @@ body {
 
 .newsletter__input-radio {
   display: none;
-  font-family: "proxima-nova", helvetica, arial, sans-serif;
+  font-family: helvetica, arial, sans-serif;
   font-weight: 700;
   text-decoration: none;
   text-transform: uppercase;
@@ -2070,7 +2070,7 @@ body {
 
 .newsletter__input-checkbox {
   display: none;
-  font-family: "proxima-nova", helvetica, arial, sans-serif;
+  font-family: helvetica, arial, sans-serif;
   font-weight: 700;
   text-decoration: none;
   text-transform: uppercase;
@@ -2236,7 +2236,7 @@ body {
 }
 
 .row__column {
-  font-family: "proxima-nova", helvetica, arial, sans-serif;
+  font-family: helvetica, arial, sans-serif;
   font-size: 16px;
   font-weight: 400;
   line-height: 2;
@@ -2244,14 +2244,14 @@ body {
 }
 
 .row__title {
-  font-family: "proxima-nova", helvetica, arial, sans-serif;
+  font-family: helvetica, arial, sans-serif;
   font-style: normal;
   font-weight: 700;
   text-decoration: none;
 }
 
 .row__text {
-  font-family: "proxima-nova", helvetica, arial, sans-serif;
+  font-family: helvetica, arial, sans-serif;
   font-size: 16px;
   font-weight: 400;
   line-height: 2;
@@ -2269,7 +2269,7 @@ body {
 }
 
 .schedule-intro__title {
-  font-family: "proxima-nova", helvetica, arial, sans-serif;
+  font-family: helvetica, arial, sans-serif;
   font-weight: 700;
   text-decoration: none;
   text-transform: uppercase;
@@ -2403,7 +2403,7 @@ body {
 }
 
 .schedule__cell--break-event {
-  font-family: "proxima-nova", helvetica, arial, sans-serif;
+  font-family: helvetica, arial, sans-serif;
   font-weight: 700;
   text-decoration: none;
   text-transform: uppercase;
@@ -2447,7 +2447,7 @@ body {
 }
 
 .schedule__on-air {
-  font-family: "proxima-nova", helvetica, arial, sans-serif;
+  font-family: helvetica, arial, sans-serif;
   font-weight: 700;
   text-decoration: none;
   text-transform: uppercase;
@@ -2484,7 +2484,7 @@ body {
 }
 
 .schedule__detail {
-  font-family: "proxima-nova", helvetica, arial, sans-serif;
+  font-family: helvetica, arial, sans-serif;
   font-style: normal;
   font-weight: 700;
   text-decoration: none;
@@ -2643,7 +2643,7 @@ body {
 .speaker__description {
   clear: both;
   display: block;
-  font-family: "proxima-nova", helvetica, arial, sans-serif;
+  font-family: helvetica, arial, sans-serif;
   font-size: 13px;
   padding-top: 10px;
 }
@@ -2651,7 +2651,7 @@ body {
 .speaker__twitter-link {
   clear: both;
   color: #f45656;
-  font-family: "proxima-nova", helvetica, arial, sans-serif;
+  font-family: helvetica, arial, sans-serif;
   font-size: 11px;
   font-weight: 700;
   text-decoration: none;
@@ -2761,7 +2761,7 @@ body {
 }
 
 .report__title {
-  font-family: "proxima-nova", helvetica, arial, sans-serif;
+  font-family: helvetica, arial, sans-serif;
   font-weight: 700;
   text-decoration: none;
   text-transform: uppercase;
@@ -2916,7 +2916,7 @@ body {
 }
 
 .sponsor-intro__title {
-  font-family: "proxima-nova", helvetica, arial, sans-serif;
+  font-family: helvetica, arial, sans-serif;
   font-weight: 700;
   text-decoration: none;
   text-transform: uppercase;
@@ -3084,7 +3084,7 @@ body {
 }
 
 .sponsor-option__title {
-  font-family: "proxima-nova", helvetica, arial, sans-serif;
+  font-family: helvetica, arial, sans-serif;
   font-weight: 700;
   text-decoration: none;
   text-transform: uppercase;
@@ -3102,7 +3102,7 @@ body {
 }
 
 .sponsor-option__price {
-  font-family: "proxima-nova", helvetica, arial, sans-serif;
+  font-family: helvetica, arial, sans-serif;
   font-weight: 700;
   text-decoration: none;
   text-transform: uppercase;
@@ -3112,7 +3112,7 @@ body {
 }
 
 .sponsor-option__vat {
-  font-family: "proxima-nova", helvetica, arial, sans-serif;
+  font-family: helvetica, arial, sans-serif;
   font-weight: 700;
   text-decoration: none;
   text-transform: uppercase;
@@ -3123,7 +3123,7 @@ body {
 
 .sponsor-option__slots-remaining {
   color: #8babea;
-  font-family: "proxima-nova", helvetica, arial, sans-serif;
+  font-family: helvetica, arial, sans-serif;
   font-style: normal;
   font-weight: 700;
   text-decoration: none;
@@ -3148,7 +3148,7 @@ body {
 }
 
 .sponsor-option__list-item::before {
-  font-family: "proxima-nova", helvetica, arial, sans-serif;
+  font-family: helvetica, arial, sans-serif;
   font-style: normal;
   font-weight: 700;
   text-decoration: none;
@@ -3221,7 +3221,7 @@ body {
 }
 
 .sponsors__thanks {
-  font-family: "proxima-nova", helvetica, arial, sans-serif;
+  font-family: helvetica, arial, sans-serif;
   font-weight: 700;
   text-decoration: none;
   text-transform: uppercase;
@@ -3340,7 +3340,7 @@ body {
 }
 
 .sponsors__title {
-  font-family: "proxima-nova", helvetica, arial, sans-serif;
+  font-family: helvetica, arial, sans-serif;
   font-weight: 700;
   text-decoration: none;
   text-transform: uppercase;
@@ -3358,7 +3358,7 @@ body {
 }
 
 .sponsors__title-right {
-  font-family: "proxima-nova", helvetica, arial, sans-serif;
+  font-family: helvetica, arial, sans-serif;
   font-weight: 700;
   text-decoration: none;
   text-transform: uppercase;
@@ -4146,7 +4146,7 @@ body {
 }
 
 .sponsorship__title {
-  font-family: "proxima-nova", helvetica, arial, sans-serif;
+  font-family: helvetica, arial, sans-serif;
   font-weight: 700;
   text-decoration: none;
   text-transform: uppercase;
@@ -4290,21 +4290,34 @@ body {
   width: 100%;
 }
 
+@media (max-width: 767px) {
+  .talk {
+    margin-left: -20px;
+    margin-right: -20px;
+  }
+}
+
 .talk__left {
   display: block;
   float: left;
   line-height: 0;
-  text-align: right;
   margin-bottom: -1px;
+  text-align: right;
 }
 
-@media (max-width: 480px) {
+@media (max-width: 767px) {
   .talk__left {
-    width: 8.33333%;
+    width: 100%;
   }
 }
 
-@media (min-width: 481px) {
+@media (min-width: 768px) {
+  .talk__left {
+    width: 50%;
+  }
+}
+
+@media (min-width: 1024px) {
   .talk__left {
     width: 58.33333%;
   }
@@ -4316,15 +4329,27 @@ body {
   padding: 60px 20px 20px;
 }
 
-@media (max-width: 480px) {
+@media (max-width: 767px) {
   .talk__right {
-    width: 8.33333%;
+    width: 100%;
   }
 }
 
-@media (min-width: 481px) {
+@media (min-width: 768px) {
+  .talk__right {
+    width: 50%;
+  }
+}
+
+@media (min-width: 1024px) {
   .talk__right {
     width: 41.66667%;
+  }
+}
+
+@media (max-width: 767px) {
+  .talk__right {
+    padding-top: 20px;
   }
 }
 
@@ -4342,7 +4367,14 @@ body {
 
 @media (max-width: 767px) {
   .talk__speaker {
+    background-position: 50% 25%;
     height: 60vw;
+    width: 100%;
+  }
+}
+
+@media (max-width: 1023px) {
+  .talk__speaker {
     width: 100%;
   }
 }
@@ -4351,12 +4383,16 @@ body {
   clear: both;
   display: block;
   width: auto;
-  font-family: "proxima-nova", helvetica, arial, sans-serif;
+  font-family: helvetica, arial, sans-serif;
   font-style: normal;
   font-weight: 700;
   text-decoration: none;
+  background-color: transparent;
   font-size: 24px;
   margin-bottom: 20px;
+  margin-left: -5px;
+  margin-top: -5px;
+  padding: 5px;
 }
 
 .talk__speakers::after {
@@ -4393,8 +4429,14 @@ body {
   position: relative;
 }
 
+@media (max-width: 767px) {
+  .talk__title {
+    position: static;
+  }
+}
+
 .talk__text {
-  font-family: "proxima-nova", helvetica, arial, sans-serif;
+  font-family: helvetica, arial, sans-serif;
   font-size: 16px;
   font-weight: 400;
   line-height: 2;
@@ -4404,10 +4446,14 @@ body {
 }
 
 .talk__speaker-twitter {
+  background-color: transparent;
   clear: both;
   color: #f45656;
   float: left;
   font-size: 14px;
+  margin-left: -5px;
+  margin-top: -5px;
+  padding: 5px;
   text-decoration: none;
 }
 
@@ -4441,7 +4487,7 @@ body {
 }
 
 .talks-intro__title {
-  font-family: "proxima-nova", helvetica, arial, sans-serif;
+  font-family: helvetica, arial, sans-serif;
   font-weight: 700;
   text-decoration: none;
   text-transform: uppercase;
@@ -4472,9 +4518,6 @@ body {
 @media (min-width: 1024px) {
   .talks-intro__title {
     font-size: 310px;
-    margin-top: 0px;
-    position: fixed;
-    top: 100px;
     -webkit-user-select: none;
        -moz-user-select: none;
         -ms-user-select: none;
@@ -4516,13 +4559,60 @@ body {
     font-size: 64px;
     margin-bottom: 40px;
     margin-left: 80px;
-    margin-top: 175px;
+    margin-top: -175px;
   }
 }
 
 .talks-speakers {
+  background-color: white;
   position: fixed;
-  top: 200px;
+  top: 100px;
+}
+
+@media (max-width: 1024px) {
+  .talks-speakers {
+    display: none;
+  }
+}
+
+.talks-speakers__title {
+  font-family: helvetica, arial, sans-serif;
+  font-weight: 700;
+  text-decoration: none;
+  text-transform: uppercase;
+  background-color: black;
+  color: white;
+  left: -20px;
+  padding: 30px 20px 10px;
+  position: absolute;
+  top: 80px;
+  -ms-transform: rotate(-90deg);
+      transform: rotate(-90deg);
+  -ms-transform-origin: 30% 70%;
+      transform-origin: 30% 70%;
+  width: 200px;
+}
+
+.talks-speakers__items {
+  list-style-type: none;
+  margin: 0;
+  margin-top: 20px;
+  padding-left: 80px;
+  padding-right: 20px;
+}
+
+.talks-speakers__item + .talks-speakers__item {
+  margin-top: 20px;
+}
+
+.talks-speakers__link {
+  font-family: helvetica, arial, sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  text-decoration: none;
+  color: #f45656;
+  font-size: 12px;
+  text-decoration: none;
 }
 
 .venue {
@@ -4567,7 +4657,7 @@ body {
 }
 
 .venue__name {
-  font-family: "proxima-nova", helvetica, arial, sans-serif;
+  font-family: helvetica, arial, sans-serif;
   font-weight: 700;
   text-decoration: none;
   text-transform: uppercase;
