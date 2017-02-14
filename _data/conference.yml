@@ -1,7 +1,11 @@
 name: phpDay
-og_image: http://2016.cssday.it/img/confs/css/cssday.png
+og_image: http://2017.phpday.it/img/confs/phpday/phpday.png
 slug: phpday
 url: http://2017.phpday.it
 where_when: Verona, May 12th-13th 2017
 year: 2017
 since: 2012
+call_for_paper_url: http://cfp.phpday.it/
+call_for_paper: false
+talks_available: false
+schedule_available: false

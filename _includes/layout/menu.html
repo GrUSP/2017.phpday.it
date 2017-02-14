@@ -6,7 +6,7 @@
         {{ site.data.conference.name }} {{ site.data.conference.year }}
       </div>
       <div class="menu__conf-logo">
-        <img class="menu__conf-logo-image" src="{{ site.baseurl }}//img/themes/{{ site.data.conference.slug }}/{{ site.data.conference.slug }}-logo.svg">
+        <img class="menu__conf-logo-image" src="{{ site.baseurl }}/img/themes/{{ site.data.conference.slug }}/{{ site.data.conference.slug }}-logo.svg">
       </div>
     </div>
     <div class="menu__footer">
@@ -33,11 +33,13 @@
 
     <nav>
       <ul class="menu__list">
-        <li class="menu__item">
-          <a href="{{ site.baseurl }}//schedule.html" class="menu__button">
-            Schedule
-          </a>
-        </li>
+        {% if site.data.conference.schedule_available %}
+          <li class="menu__item">
+            <a href="{{ site.baseurl }}//schedule.html" class="menu__button">
+              Schedule
+            </a>
+          </li>
+        {% endif %}
         <li class="menu__item">
           {% if site.data.tickets.sold_out %}
             <span class="menu__button menu__button--sold-out">
@@ -54,11 +56,13 @@
             Sponsor
           </a>
         </li>
-        <li class="menu__item">
-          <a href="{{ site.baseurl }}//talks.html" class="menu__button">
-            Talks
-          </a>
-        </li>
+        {% if site.data.conference.talks_available %}
+          <li class="menu__item">
+            <a href="{{ site.baseurl }}//talks.html" class="menu__button">
+              Talks
+            </a>
+          </li>
+        {% endif %}
         <li class="menu__item">
           <a href="{{ site.baseurl }}//venue.html" class="menu__button">
             Venue

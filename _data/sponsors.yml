@@ -2,7 +2,7 @@
 # img/sponsors/file.jpg
 # img/sponsors/guide.pdf
 
-pdf: sponsor_adespresso.png
+pdf: grusp_2017.pdf
 call_for_sponsor: true
 
 main:
@@ -11,7 +11,6 @@ main:
     - 1 dedicated session (30 mins max)
     - Access to opt-in attendees list
     - One direct email marketing campaign
-    - Your logo on conference programme
     - Your logo on conference rollups
     - Your own rollups in two rooms
     - Stand (table 2m x 1m)
@@ -21,111 +20,87 @@ main:
   max: 1
   list:
     -
-      url: http://adespresso.com
-      image: sponsor_adespresso.png
+      url:
+      image:
 
 diamond:
   price: € 5,000
   offer:
-    - Access to opt-in attendees list
-    - One direct email marketing campaign
-    - Your logo on conference programme
+    - 1 dedicated session (30 mins max)
+    - Your logo on conference website
     - Your logo on conference rollups
     - Your own rollups in two rooms
     - Stand (table 2m x 1m)
     - Your own flyer and/or gadget in folder
-    - 5 free tickets
-    - 5 tickets with 50% discount
+    - 2 free tickets
+    - 5 tickets with 20% discount
   max: 2
   list:
     -
-      url: http://adespresso.com
-      image: sponsor_adespresso.png
-
+      url:
+      image:
+    -
+      url:
+      image:
 
 platinum:
   price: € 3,000
   offer:
-    - 1 dedicated session (30 mins max)
-    - Access to opt-in attendees list
-    - One direct email marketing campaign
-    - Your logo on conference programme
+    - Your logo on conference website
     - Your logo on conference rollups
-    - Your own rollups in two rooms
-    - Stand (table 2m x 1m)
-    - 5 tickets with 50% discount
+    - Your own rollup in one room (of your choice)
+    - Stand (table 1m x 1m)
+    - Your own flyer and/or gadget in folder
+    - 1 free ticket
+    - 5 tickets with 15% discount
   max: 4
   list:
     -
-      url: http://adespresso.com
-      image: sponsor_inode.png
+      url:
+      image:
     -
-      url: http://i3p.com
-      image: fabbrucci.png
+      url:
+      image:
+    -
+      url:
+      image:
+    -
+      url:
+      image:
 
 gold:
   price: € 1,000
   offer:
-    - 1 dedicated session (30 mins max)
-    - Access to opt-in attendees list
-    - One direct email marketing campaign
-    - Your logo on conference programme
+    - Your logo on conference website
     - Your logo on conference rollups
-    - 5 tickets with 50% discount
+    - Your own rollup in one room (chosen by the organization)
+    - Your own flyer and/or gadget in folder
+    - 3 tickets with 15% discount
   max: 8
   list:
     -
-      url: http://adespresso.com
-      image: sponsor_inode.png
+      url: http://www.avanscoperta.it/
+      image: sponsor_avanscoperta.png
     -
-      url: http://i3p.com
-      image: fabbrucci.png
-    -
-      url: http://adespresso.com
-      image: faventia.jpg
+      url: http://www.madisoft.it/?utm_source=phpday
+      image: sponsor_madisoft.png
 
 silver:
   price: € 500
   offer:
-    - 1 dedicated session (30 mins max)
-    - Access to opt-in attendees list
-    - One direct email marketing campaign
-    - Your logo on conference programme
-    - 5 tickets with 50% discount
+    - Your logo on conference website
+    - Your logo on conference rollups
+    - Your own flyer and/or gadget in folder (provided by you)
+    - 3 tickets with 10% discount
   max: 4
   list:
     -
-      url: http://adespresso.com
-      image: sponsor_inode.png
-    -
-      url: http://i3p.com
-      image: fabbrucci.png
-    -
-      url: http://adespresso.com
-      image: faventia.jpg
-    -
-      url: http://i3p.com
-      image: sponsor_3.jpg
+      url: http://www.neen.it/
+      image: sponsor_neen.png
 
 bronze:
   price: € 300
   offer:
-    - Your logo on conference programme
-    - 2 tickets with 50% discount
+    - Your logo on conference website
+    - 2 tickets with 10% discount
   max: 8
-  list:
-    -
-      url: http://adespresso.com
-      image: sponsor_inode.png
-    -
-      url: http://i3p.com
-      image: fabbrucci.png
-    -
-      url: http://adespresso.com
-      image: faventia.jpg
-    -
-      url: http://i3p.com
-      image: sponsor_3.jpg
-    -
-      url: http://adespresso.com
-      image: sponsor_inode.png
