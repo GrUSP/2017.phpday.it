@@ -65,10 +65,10 @@ gold:
   list:
     -
       url: http://www.avanscoperta.it/?utm_source=phpday
-      image: sponsor_avanscoperta.png
+      image: avanscoperta.svg
     -
       url: http://www.madisoft.it/?utm_source=phpday
-      image: sponsor_madisoft.png
+      image: madisoft.svg
 
 silver:
   price: € 500
@@ -81,7 +81,7 @@ silver:
   list:
     -
       url: http://www.neen.it/?utm_source=phpday
-      image: sponsor_neen.png
+      image: neen.svg
     -
       url: https://www.siteground.it/?utm_source=phpday
       image: siteground.svg
