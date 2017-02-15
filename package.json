@@ -5,11 +5,13 @@
   "main": "index.js",
   "devDependencies": {
     "dustman": "^1.11.55",
-    "frontsize": "git+https://github.com/ideatosrl/frontsize.git#372f2a6"
+    "frontsize": "git+https://github.com/ideatosrl/frontsize.git#372f2a6",
+    "gulp": "github:gulpjs/gulp#4.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "setup": "cp ./node_modules/dustman/gulpfile.js ."
+    "setup": "cp ./node_modules/dustman/gulpfile.js .",
+    "dev": "./node_modules/.bin/gulp -S --config dustman-phpday.yml watch & jekyll serve"
   },
   "repository": {
     "type": "git",

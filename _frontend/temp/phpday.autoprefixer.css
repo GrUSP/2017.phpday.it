@@ -1289,6 +1289,12 @@ body {
   height: auto !important;
 }
 
+.intro--phpday {
+  background-color: #8babea;
+  background-position: 50% 50%;
+  background-size: contain;
+}
+
 @media (max-width: 479px) {
   .intro {
     height: 250px;
@@ -1916,10 +1922,6 @@ body {
   color: #575757;
 }
 
-.newsletter__email:focus::-moz-placeholder {
-  color: #575757;
-}
-
 .newsletter__email:focus:-ms-input-placeholder {
   color: #575757;
 }
@@ -1929,12 +1931,6 @@ body {
 }
 
 .newsletter__email::-webkit-input-placeholder {
-  color: white;
-  text-transform: capitalize;
-  transition: color 0.25s ease-in-out;
-}
-
-.newsletter__email::-moz-placeholder {
   color: white;
   text-transform: capitalize;
   transition: color 0.25s ease-in-out;
@@ -1953,11 +1949,6 @@ body {
 }
 
 .newsletter__email--invalid::-webkit-input-placeholder {
-  color: #f45656;
-  text-transform: none;
-}
-
-.newsletter__email--invalid::-moz-placeholder {
   color: #f45656;
   text-transform: none;
 }
