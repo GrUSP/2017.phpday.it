@@ -19,9 +19,6 @@ main:
     - 5 tickets with 50% discount
   max: 1
   list:
-    -
-      url:
-      image:
 
 diamond:
   price: € 5,000
