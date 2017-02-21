@@ -9,6 +9,20 @@ list:
     last_name: Peric
     twitter: antonioperic
   -
+    id: ben-edmunds
+    description:
+    image: ben-edmunds.jpg
+    first_name: Ben
+    last_name: Edmunds
+    twitter: benedmunds
+  -
+    id: denis-brumann
+    description:
+    image: denis-brumann.jpg
+    first_name: Denis
+    last_name: Brumann
+    twitter: dbrumann
+  -
     id: gary-hockin
     description:
     image: gary-hockin.png
@@ -16,12 +30,40 @@ list:
     last_name: Hockin
     twitter: GeeH
   -
+    id: gemma-cameron
+    description:
+    image: gemma-cameron.png
+    first_name: Gemma
+    last_name: Cameron
+    twitter: ruby_gem
+  -
+    id: giorgio-sironi
+    description:
+    image: giorgio-sironi.jpg
+    first_name: Giorgio
+    last_name: Sironi
+    twitter: giorgiosironi
+  -
     id: graham-daniels
     description:
     image: graham-daniels.jpg
     first_name: Graham
     last_name: Daniels
     twitter: greydnls
+  -
+    id: james-titcumb
+    description:
+    image: james-titcumb.jpg
+    first_name: James
+    last_name: Titcumb
+    twitter: asgrim
+  -
+    id: jonathan-reinink
+    description:
+    image: jonathan-reinink.jpg
+    first_name: Jonathan
+    last_name: Reinink
+    twitter: reinink
   -
     id: larry-garfield
     description:
@@ -50,6 +92,20 @@ list:
     first_name: Rafael
     last_name: Dohms
     twitter: rdohms
+  -
+    id: rick-kuipers
+    description:
+    image: rick-kuipers.jpeg
+    first_name: Rick
+    last_name: Kuipers
+    twitter: rskuipers
+  -
+    id: sarah-khalil
+    description:
+    image: sarah-khalil.jpg
+    first_name: Sarah
+    last_name: Khalil
+    twitter: saro0h
   -
     id: vasco-duarte
     description:
