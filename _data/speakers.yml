@@ -23,6 +23,20 @@ list:
     last_name: Brumann
     twitter: dbrumann
   -
+    id: enrico-zimuel
+    description:
+    image: enrico-zimuel.png
+    first_name: Enrico
+    last_name: Zimuel
+    twitter: ezimuel
+  -
+    id: frederick-vanbrabant
+    description:
+    image: frederick-vanbrabant.jpg
+    first_name: Frederick
+    last_name: Vanbrabant
+    twitter: theEdonian
+  -
     id: gary-hockin
     description:
     image: gary-hockin.png
@@ -36,6 +50,13 @@ list:
     first_name: Gemma
     last_name: Cameron
     twitter: ruby_gem
+  -
+    id: georgiana-gligor
+    description:
+    image: georgiana-gligor.jpg
+    first_name: Georgiana
+    last_name: Gligor
+    twitter: gbtekkie
   -
     id: giorgio-sironi
     description:
@@ -86,7 +107,14 @@ list:
     last_name: Svrtan
     twitter: msvrtan
   -
-    id: rafael-dhohms
+    id: nils-adermann
+    description:
+    image: nils-adermann.png
+    first_name: Nils
+    last_name: Adermann
+    twitter: naderman
+  -
+    id: rafael-dohms
     description:
     image: rafael-dohms.png
     first_name: Rafael
