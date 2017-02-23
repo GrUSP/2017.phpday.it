@@ -1,22 +1,197 @@
 -
-  speaker_id: rasmus-lerdorf
-  title: Deploying PHP 7
-  keynote: true
+  speaker_id:
+    - antonio-peric
+  title: Drupal8 for Symfony developers
   extract: >
-    This talk is intermediate level and should have a bit of something
-    for everyone whether you’re building a standard pipeline (non-docker)
-    or already have a pipeline and looking to see how docker will make it even stronger.
-    I will demonstrate how building pipe- lines with Docker differs from
-    traditional pipelines, what steps are involved in migrating.
+    Drupal8 modernization (new object-oriented base) and adoption of many Symfony components is a huge step in connecting these two amazing
+    communities and amazing projects. Drupal8 is not powered by full-stack Symfony and there is still many differences between these two relatives,
+    but still, Symfony developers should master it easily.
+    This talk is for Symfony developers who don't have experience with Drupal8. It will guide you through routing, controllers, hooks, events, Drupal
+    Console, DI and many other interesting elements that power Drupal8 under the hood. It will also show how to build custom modules Symfony way.
 -
   speaker_id:
-    - nicolas-cage
-    - rasmus-lerdorf
-  image: talk-image.jpg
-  title: Your API is a UI
+    - ben-edmunds
+  title: Modern PHP Standards and Community
   extract: >
-    This talk is intermediate level and should have a bit of something
-    for everyone whether you’re building a standard pipeline (non-docker)
-    or already have a pipeline and looking to see how docker will make it even stronger.
-    I will demonstrate how building pipe- lines with Docker differs from
-    traditional pipelines, what steps are involved in migrating.
+    Learn how to structure and maintain a modern day PHP project using the latest standards. We'll walk through recent language improvements and how
+    they will affect your day to day development. This will use code examples to give you in depth, real world examples of usage. We'll also cover the
+    latest community initiatives and standards including the PHPFIG along with the PSRs they have introduced.
+-
+  speaker_id:
+    - denis-brumann
+  title: Feature Toggles
+  extract: >
+    When you develop in a fast cycle and want to continuously deploy or when you have a project with lots of customer specific configurations feature
+    toggles are a must and you probably use the simplest one `if () then {}`. When you switch between features in your code you will accumulate
+    technical debt fast and if you don't watch out it will turn into a monster. I will show you how to tame the beast that is feature toggling by
+    showing good practices to introduce more complex toggle conditions, how to separate new and old behaviour and how to easily get rid of them when
+    you don't need them.
+-
+  speaker_id:
+    - enrico-zimuel
+  title: The most exciting features of PHP 7.1
+  extract: >
+    PHP 7.1 contains new exciting features and improvements that can facilitate the life of many PHP developers. During the talk I will show some of
+    these new features like nullable types, catching of multiple exception, the curl HTTP/2 server push support, void return types, Class constant
+    visibility, authenticated encryption in OpenSSL with GCM and CCM modes, and more.
+-
+  speaker_id:
+    - enrico-zimuel
+  title: Building middleware applications with Zend Framework 3
+  extract: >
+    Zend Framework 3 offers a new package to write PHP application using a middleware approach. This new package is zend-expressive, a micro-framework
+    supporting the PSR-7 standard. In this tutorial we'll show how to build performant, well-structured, and reusable web applications using
+    zend-expressive. We'll show how to design and implement simple web applications, web APIs, and complex web architectures using dependency
+    injection containers, routing systems, and template adapters. Preparation instructions:
+    https://github.com/ezimuel/zend-expressive-workshop/blob/master/README.md
+-
+  speaker_id:
+    - gary-hockin
+  title: Using Open Source for Fun and Profit
+  keynote: true
+  extract: >
+    10 years ago I was a lonely developer sitting in a small room quietly turning out code between 9am and 5pm, Monday to Friday. Fast-forward to now
+    and you'll see me standing in front of audiences all around the world talking to developers about numerous topics. "Why are you bragging like that
+    at me?" I hear you ask. Because it could happen to you too. The question I always ask myself is "How the hell did that happen?!?!".
+    The truth is that the only reason I've managed to advance my career so far in a decade is because of the people that make up the communities of
+    open source projects. Not only do open source projects save you time and money, but the friendships and support groups that can be made within
+    these communities is, frankly, staggering. Join me as I chart my journey from wage slave to conference speaker, and look at how you can leverage
+    the power of open source to make real friends, real money, and real happiness.
+-
+  speaker_id:
+    - gemma-cameron
+  title: Visualisation
+  extract: >
+    User stories, kanban boards, analytics… We all use tools to visualise and radiate information. In this talk we look at the different ways of
+    visualising, why we’re using them and if there’s another way.
+-
+  speaker_id:
+    - georgiana-gligor
+  title: "Branching strategies: choose wisely to minimise costs"
+  extract: >
+    Is your team choosing the branching strategy from the beginning, or is it switching after a while to better accommodate the current project stage?
+    How does this affect you, and what are the costs involved? Multiply this by the number of repositories, each playing a definite role in a
+    large-scale project, and you will want to know how to minimise the impact.
+    In the inception phase, developers are the ones producing code, and oftentimes they choose the project branching strategy that mostly fits their
+    immediate needs. In some teams the developers don't have DevOps knowledge, so when there is a working prototype that needs to see the light of
+    day (err...server), they need a packagist to help them assemble the code so that it can be deployed in a specific environment, which often
+    translates into a branching change. When the codebase matures and bug hunts start to occur, new constraints are imposed, and a more mature
+    strategy is transitioned to. The branching model needs to be simple - so that everyone involved can grasp it quickly, flexible - so it can serve
+    the needs of very different roles within the project lifecycle, adaptable - when you have a particular unforeseen need, it should not be a
+    barrier. See what's already being used by others, ask a few questions that might drive an adaptation of your choice, then choose wisely.
+    Then let your team spend their time on coding rather than painfully switching strategies.
+-
+  speaker_id:
+    - giorgio-sironi
+  title: Long running PHP processes
+  extract: >
+    PHP has outgrown being a simple Apache module, being used on the command line not just for development tools but also in production.
+    Long-running PHP processes may live for hours or days consuming messages from queues or background jobs to execute; this talk will guide you
+    through several years of tweaks to make them reliable and performant. There are many things that can go wrong when leaving a PHP process around
+    on your servers, but it is possible to solve the problems of crashing, memory leaks, interruptions, lost logs, or monitoring. The goal of having
+    smooth operations has to be kept in mind - scaling your servers and traffic without scaling the people needed to look after them.
+-
+  speaker_id:
+    - graham-daniels
+  title: Code Manifesto
+  keynote: true
+  extract: >
+    The Code Manifesto is a set of values, created in hopes of guiding our community towards a place that is welcoming, safe, and empowering to all.
+    Currently, our communities are greatly lacking in diversity, and sometimes outright hostile towards the minority members that we do have. In this
+    talk I try to illustrate that problem, and also cover WHY it matters, and finally what we can do to help fix it.
+    I talk about what the Code Manifesto is, why it came to be, and why each of the values were selected.
+-
+  speaker_id:
+    - james-titcumb
+  title: Climbing the Abstract Syntax Tree
+  extract: >
+    The new Abstract Syntax Tree (AST) in PHP 7 means the way our PHP code is being executed has changed. Understanding this new fundamental
+    compilation step is key to understanding how our code is being run. To demonstrate, James will show how a basic compiler works and how introducing
+    an AST simplifies this process. We’ll look into how these magical time-warp techniques* can also be used in your code to introspect, analyse and
+    modify code in a way that was never possible before. After seeing this talk, you'll have a great insight as to the wonders of an AST, and how it
+    can be applied to both compilers and userland code. (*actual magic or time-warp not guaranteed)
+-
+  speaker_id:
+    - jonathan-reinink
+  title: How to open source a PHP package
+  extract: >
+    If you've ever dreamed of creating an open source PHP package, this talk is for you. The process can be a little intimidating the first time.
+    Fret not, we'll walk through each step of the PHP Package Checklist (phppackagechecklist.com), ensuring that your project is taken seriously by
+    the rest of the PHP community! We'll look at setting up Composer and auto-loading, semantic versioning, writing unit tests, implementing a
+    continuous integration workflow and more.
+-
+  speaker_id:
+    - larry-garfield
+  title: Make your code do your job
+  extract: >
+    Throughout history, advancement has come from reducing the amount of work that needs to be done by humans and letting technology do it for us.
+    Long before computers, humans were letting our technology work for us in order to make ourselves better. So too with programming. We have the
+    ability in PHP, as in many languages, to make the language syntax itself find bugs for us. It's called "types", and is a far too under-utilized
+    part of the language. Even many seasoned developers don't realize the benefits that come from having strict, explicit types in their code rather
+    than relying on haphazard "duck typing".
+    This talk will make the case that your best way to improve your productivity as a developer is to make your language itself do your work for you.
+    With PHP 7's improved typing support that is now even easier than ever.
+-
+  speaker_id:
+    - michelangelo-van-dam
+  title: Dockerize your unit tests for faster feedback
+  extract: >
+    Ever got the message "Fatal error: Out of memory" when running your unit tests? Or do you have to wait for more than 5 minutes for all of your
+    unit tests to complete? We're using Docker to mitigate these and other issues. In this session I will show you how we have split up a single
+    testsuite of 10K+ tests into manageable unit modules which are executed by Docker micro instances in parallel. And with this set up we test our
+    application on the current PHP version, but it also allows us to test against a new major PHP version the moment it is released or even is
+    available in beta.
+-
+  speaker_id:
+    - miro-svrtan
+  title: Hands on PHPSpec
+  extract: >
+    PHPSpec and BDD are cool buzzwords this days in PHP community and I would like to invite you to show you how to build better code with it.
+    I will be live coding few examples to introduce you to PHPSpec features, show you some caveats and by working in small teams build a feature
+    together. So what is PHPSpec? It's a great tool to model (specify) and build your code that has a side effect: you get some tests out of it.
+    It's not a drop in replacement for unit testing (or testing in general) but can help you out build great products in short amount of time.
+-
+  speaker_id:
+    - nils-adermann
+  title: Managing dependencies is more than running "composer update"
+  extract: >
+    You've used Composer so many times now, but how deep is your understanding of your dependencies? Can you get yourself out of every tricky
+    situation? This talk will cover a broad range of dependency management subjects: From assessing the risk, e.g. through BC breaks, introduced into
+    your business critical code by third party software, all the way to hand-on tips for working with composer in the real world, e.g. what to do if
+    composer.lock conflicts during a merge, when your colleagues and you modified dependencies in different ways.
+-
+  speaker_id:
+    - rafael-dohms
+  title: Writing code that lasts...or writing code you won't hate tomorrow
+  extract: >
+    As developers we write code everyday, only to frown at it a week after that. Why do we have such a hard time with code written by others and
+    ourselves, this raging desire to rewrite everything we see? Writing code that survives the test of time and self judgment is a matter of clarity
+    and simplicity. Let's talk about growing, learning and improving our code with calisthenics, readability and good design.
+-
+  speaker_id:
+    - rick-kuipers
+  title: The Science of Code Reviews
+  extract: >
+    We all make mistakes, as much as we try to write flawless code, every now and then an error slips through. In order to reduce this number we do
+    code reviews to ensure the code meets certain standards and to see if the feature was properly implemented. But how do you do a good code review?
+    How do you handle technical discussions? How do you keep your reviews focused and your discussions relevant? In this talk I would like to show you
+    how you can do proper code reviews, what to look out for when doing them, how to give feedback to the developer and a bunch of other tips to
+    improve this process.
+-
+  speaker_id:
+    - sarah-khalil
+  title: Overriding Symfony in a million ways
+  extract: >
+    During this session, we will have a look at how easy it is to override everything in a Symfony application. We'll see how the directory structure
+    can be adapted to your needs, but more importantly, we will learn how to override any Symfony feature by writing some custom event listeners or by
+    tweaking the Dependency Container configuration.
+-
+  speaker_id:
+    - vasco-duarte
+  title: "NoEstimates: The 10 new principles for Software Projects - predicting without estimating"
+  keynote: true
+  extract: >
+    Often we hear that estimating a project is a must. "We can't make decisions without them" we hear often. In this session I'll present examples
+    of how we can predict a release date of a project without any estimates, only relying on easily available data. I'll show how we can follow
+    progress on a project at all times without having to rely on guesswork, and we will review how large, very large and small projects have already
+    benefited from this in the past. At the end of the session you will be ready to start your own #NoEstimates journey.
