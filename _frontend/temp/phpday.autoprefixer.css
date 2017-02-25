@@ -1597,8 +1597,8 @@ body {
   position: fixed;
   right: 0;
   top: 0;
-  -ms-transform: translate(0, -100%);
-      transform: translate(0, -100%);
+  -ms-transform: translate(0, -125%);
+      transform: translate(0, -125%);
   transition: 0.5s cubic-bezier(0.77, 0, 0.175, 1);
   z-index: 3;
   clear: both;
@@ -1922,6 +1922,10 @@ body {
   color: #575757;
 }
 
+.newsletter__email:focus::-moz-placeholder {
+  color: #575757;
+}
+
 .newsletter__email:focus:-ms-input-placeholder {
   color: #575757;
 }
@@ -1931,6 +1935,12 @@ body {
 }
 
 .newsletter__email::-webkit-input-placeholder {
+  color: white;
+  text-transform: capitalize;
+  transition: color 0.25s ease-in-out;
+}
+
+.newsletter__email::-moz-placeholder {
   color: white;
   text-transform: capitalize;
   transition: color 0.25s ease-in-out;
@@ -1949,6 +1959,11 @@ body {
 }
 
 .newsletter__email--invalid::-webkit-input-placeholder {
+  color: #f45656;
+  text-transform: none;
+}
+
+.newsletter__email--invalid::-moz-placeholder {
   color: #f45656;
   text-transform: none;
 }
@@ -4593,7 +4608,7 @@ body {
 }
 
 .talks-speakers__item + .talks-speakers__item {
-  margin-top: 20px;
+  margin-top: 10px;
 }
 
 .talks-speakers__link {
@@ -4604,6 +4619,122 @@ body {
   color: #f45656;
   font-size: 12px;
   text-decoration: none;
+}
+
+.page-intro__title {
+  font-family: helvetica, arial, sans-serif;
+  font-weight: 700;
+  text-decoration: none;
+  text-transform: uppercase;
+  color: #8babea;
+  font-size: 60px;
+  line-height: 50px;
+  margin-bottom: -25px;
+  margin-top: 100px;
+  text-align: left;
+}
+
+@media (min-width: 480px) {
+  .page-intro__title {
+    font-size: 90px;
+    line-height: 110px;
+    margin-top: 0;
+  }
+}
+
+@media (min-width: 768px) {
+  .page-intro__title {
+    font-size: 150px;
+    line-height: 110px;
+    margin-top: 120px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .page-intro__title {
+    font-size: 200px;
+    line-height: 50px;
+    margin-top: 150px;
+  }
+}
+
+.page-intro__question {
+  font-family: georgia, "times new roman", times, serif;
+  font-style: italic;
+  font-weight: 700;
+  font-size: 18px;
+  margin-bottom: 0;
+  margin-top: 10px;
+  text-align: center;
+}
+
+@media (min-width: 480px) {
+  .page-intro__question {
+    font-size: 20px;
+    margin-bottom: 20px;
+    margin-top: -10px;
+    text-align: left;
+  }
+}
+
+@media (min-width: 768px) {
+  .page-intro__question {
+    font-size: 24px;
+    margin-bottom: 40px;
+    margin-top: 0;
+  }
+}
+
+.page-intro__row {
+  margin-left: -20px;
+  margin-right: -20px;
+  width: auto;
+  clear: both;
+  display: block;
+  width: auto;
+}
+
+.page-intro__row::after {
+  clear: both;
+  content: '';
+  display: block;
+  height: 1px;
+  margin-top: -1px;
+  width: 100%;
+}
+
+.page-intro__row-column {
+  display: block;
+  float: left;
+  width: 100%;
+  padding: 20px;
+}
+
+@media (max-width: 480px) {
+  .page-intro__row-column {
+    width: 100%;
+  }
+  .page-intro__row-column:nth-child(1n + 2) {
+    clear: both;
+  }
+}
+
+@media (min-width: 481px) {
+  .page-intro__row-column {
+    width: 50%;
+  }
+  .page-intro__row-column:nth-child(2n + 3) {
+    clear: both;
+  }
+}
+
+.page-intro__text {
+  font-size: 14px;
+  line-height: 32px;
+}
+
+.page-intro__text + .page-intro__text {
+  margin-top: 30px;
 }
 
 .venue {
