@@ -33,7 +33,13 @@ diamond:
     - 5 tickets with 20% discount
   max: 2
   list:
-
+    -
+      url: https://cloud.google.com
+      image: google-cloud.svg
+    -
+      url: http://tech.trivago.com
+      image: trivago.svg
+      
 platinum:
   price: € 3,000
   offer:
@@ -49,6 +55,7 @@ platinum:
     -
       url: http://www.ideato.it/?utm_source=phpday
       image: ideato.svg
+
 
 gold:
   price: € 1,000
