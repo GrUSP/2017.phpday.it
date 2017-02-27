@@ -133,6 +133,21 @@
     With PHP 7's improved typing support that is now even easier than ever.
 -
   speaker_id:
+    - marco-pivetta
+  title: Extremely defensive PHP
+  extract: >
+    Resistant, highly testable, safe and maintainable code: or not? There are a thousand ways to break your code, and a lot of ways to prevent that
+    from happening. Let's explore defensive programming and learn how to protect our code from invalid usage."
+-
+  speaker_id:
+    - marco-pivetta
+  title: Basic CQRS and Event Sourcing with Prooph
+  extract: >
+    CQRS and Event Sourcing are challenging if approached for the first time, and especially if done from scratch. We help you installing,
+    configuring and getting Prooph to run. We’ll build a fairly simple event-sourced aggregate in order for you to understand how to organize
+    things inside CQRS/ES stack, and how to massively simplify some problems that usually cause very big performance issues when put at scale.
+-
+  speaker_id:
     - michelangelo-van-dam
   title: Dockerize your unit tests for faster feedback
   extract: >
@@ -141,6 +156,14 @@
     testsuite of 10K+ tests into manageable unit modules which are executed by Docker micro instances in parallel. And with this set up we test our
     application on the current PHP version, but it also allows us to test against a new major PHP version the moment it is released or even is
     available in beta.
+-
+  speaker_id:
+    - michelle-sanver
+  title: Face detection in PHP
+  extract: >
+    Add face detection to our image service Rokka.io, they said. It'll be easy, they said. Just a few calls to the OpenCV extension, they said.
+    Boy, were they wrong. Follow along on our epic journey to do face detection in PHP and see the challenges we faced, the mistakes we made and
+    how we triumphed in the end.
 -
   speaker_id:
     - miro-svrtan
@@ -185,6 +208,15 @@
     During this session, we will have a look at how easy it is to override everything in a Symfony application. We'll see how the directory structure
     can be adapted to your needs, but more importantly, we will learn how to override any Symfony feature by writing some custom event listeners or by
     tweaking the Dependency Container configuration.
+-
+  speaker_id:
+    - terrence-ryan
+  title: Containing Chaos with Kubernetes
+  extract: >
+    Okay, you've made the move to containers and can now write Dockerfiles for everything. How do you manage all of those containers?. Have you
+    found that you traded managing individual machines for managing individual containers? Kubernetes, an Open Source container orchestration engine,
+    can be your answer. We'll explore Kubernetes and see how you can use it to run massive collections of containers that fix their own problems
+    and allow you to move your setup wherever you need to be.
 -
   speaker_id:
     - vasco-duarte
