@@ -93,12 +93,26 @@ list:
     last_name: Garfield
     twitter: Crell
   -
+    id: marco-pivetta
+    description:
+    image: marco-pivetta.jpg
+    first_name: Marco
+    last_name: Pivetta
+    twitter: Ocramius
+  -
     id: michelangelo-van-dam
     description:
     image: michelangelo-van-dam.jpg
     first_name: Michelangelo
     last_name: Van Dam
     twitter: DragonBe
+  -
+    id: michelle-sanver
+    description:
+    image: michelle-sanver.jpg
+    first_name: Michelle
+    last_name: Sanver
+    twitter: michellesanver
   -
     id: miro-svrtan
     description:
@@ -134,6 +148,13 @@ list:
     first_name: Sarah
     last_name: Khalil
     twitter: saro0h
+  -
+    id: terrence-ryan
+    description:
+    image: terrence-ryan.jpg
+    first_name: Terrence
+    last_name: Ryan
+    twitter: tpryan
   -
     id: vasco-duarte
     description:
