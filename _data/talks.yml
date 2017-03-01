@@ -46,6 +46,17 @@
     https://github.com/ezimuel/zend-expressive-workshop/blob/master/README.md
 -
   speaker_id:
+    - frederick-vanbrabant
+  title: "A bird's eye view on API development"
+  extract: >
+    We all know how to develop an API right? You just churn out a bit of JSON and call it a day...
+    In this talk we're going to dig just a bit deeper then that. How do I choose Http codes, when should I use what verb, how do I structure endpoints,
+    and what is this HATEOAS thing?
+    After we've covered the basics, we'll move on to some more advanced topics. This will include stuff like authentication, versioning and custom
+    headers. Even tho the talk will aim itself around people who are new to API development, developers from all skill levels will walk away with
+    something learned.
+-
+  speaker_id:
     - gary-hockin
   title: Using Open Source for Fun and Profit
   keynote: true
