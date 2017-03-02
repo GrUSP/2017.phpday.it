@@ -196,7 +196,7 @@
 -
   speaker_id:
     - rafael-dohms
-  title: Writing code that lasts...or writing code you won't hate tomorrow
+  title: "'Writing code that lasts'...or writing code you won't hate tomorrow"
   extract: >
     As developers we write code everyday, only to frown at it a week after that. Why do we have such a hard time with code written by others and
     ourselves, this raging desire to rewrite everything we see? Writing code that survives the test of time and self judgment is a matter of clarity
