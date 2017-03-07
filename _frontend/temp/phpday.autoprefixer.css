@@ -2515,6 +2515,16 @@ body {
   margin-left: -2px;
 }
 
+.schedule__speaker a {
+  color: #f45656;
+  text-decoration: none;
+  transition: color 0.25s ease-in-out;
+}
+
+.schedule__speaker a:hover {
+  color: #8babea;
+}
+
 @media (max-width: 1023px) {
   .schedule {
     margin-left: -40px;

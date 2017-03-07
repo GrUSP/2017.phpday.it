@@ -159,6 +159,16 @@
       content: ', ';
       margin-left: -2px;
     }
+
+    a {
+      color: $color-menu-button-alt;
+      text-decoration: none;
+      transition: color 0.25s ease-in-out;
+
+      &:hover {
+        color: $color-text-info;
+      }
+    }
   }
 
   @include media ('<tablet-large') {
