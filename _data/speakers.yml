@@ -86,13 +86,6 @@ list:
     last_name: Reinink
     twitter: reinink
   -
-    id: larry-garfield
-    description:
-    image: larry-garfield.jpg
-    first_name: Larry
-    last_name: Garfield
-    twitter: Crell
-  -
     id: marco-pivetta
     description:
     image: marco-pivetta.jpg

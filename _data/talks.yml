@@ -132,18 +132,6 @@
     continuous integration workflow and more.
 -
   speaker_id:
-    - larry-garfield
-  title: Make your code do your job
-  extract: >
-    Throughout history, advancement has come from reducing the amount of work that needs to be done by humans and letting technology do it for us.
-    Long before computers, humans were letting our technology work for us in order to make ourselves better. So too with programming. We have the
-    ability in PHP, as in many languages, to make the language syntax itself find bugs for us. It's called "types", and is a far too under-utilized
-    part of the language. Even many seasoned developers don't realize the benefits that come from having strict, explicit types in their code rather
-    than relying on haphazard "duck typing".
-    This talk will make the case that your best way to improve your productivity as a developer is to make your language itself do your work for you.
-    With PHP 7's improved typing support that is now even easier than ever.
--
-  speaker_id:
     - marco-pivetta
   title: Extremely defensive PHP
   extract: >
