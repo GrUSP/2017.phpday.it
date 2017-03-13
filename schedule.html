@@ -33,7 +33,13 @@ title: Schedule
         {% include schedule/pause.html time='13.00-14.30' title='Lunch' icon="food" fill='true' %}
 
         <tr>
-          {% include schedule/talk.html title='Make your code do your job' time='14.30-15.30' %}
+          <td class="schedule__cell schedule__cell--time">
+            <span class="schedule__time">14.30-15.30</span>
+            <span class="schedule__on-air">on air</span>
+          </td>
+          <td class="schedule__cell schedule__cell--event">
+            <div class="schedule__title">TBD</div>
+          </td>
           {% include schedule/talk.html title="Branching strategies: choose wisely to minimise costs" %}
           {% include schedule/talk.html title='Basic CQRS and Event Sourcing with Prooph' workshop='true'%}
         </tr>
@@ -46,13 +52,7 @@ title: Schedule
         {% include schedule/pause.html time='16.30-17.00' title='Coffee break' icon="coffee" fill='true' %}
 
         <tr>
-          <td class="schedule__cell schedule__cell--time">
-            <span class="schedule__time">17.00-17.30</span>
-            <span class="schedule__on-air">on air</span>
-          </td>
-          <td class="schedule__cell schedule__cell--event">
-            <div class="schedule__title">TBD</div>
-          </td>
+          {% include schedule/talk.html title='Confessions of a Backend Developer' time='17.00-17.30' %}
           {% include schedule/talk.html title='Containing Chaos with Kubernetes' %}
           <td class="schedule__cell schedule__cell--event">
             <div class="schedule__title">PUG Meeting</div>
@@ -91,20 +91,20 @@ title: Schedule
 
         {% include schedule/pause.html time='13.00-14.30' title='Lunch' icon="food" %}
 
-        <tr>{% include schedule/talk.html time='14.30-15.30' title='Make your code do your job' %}</tr>
-        <tr>{% include schedule/talk.html time='15.30-16.30' title='Overriding Symfony in a million ways' %}</tr>
-
-        {% include schedule/pause.html time='16.30-17.00' title='Coffee break' icon="coffee" %}
-
         <tr>
           <td class="schedule__cell schedule__cell--time">
-            <span class="schedule__time">17.00-17.30</span>
+            <span class="schedule__time">14.30-15.30</span>
             <span class="schedule__on-air">on air</span>
           </td>
           <td class="schedule__cell schedule__cell--event">
             <div class="schedule__title">TBD</div>
           </td>
         </tr>
+        <tr>{% include schedule/talk.html time='15.30-16.30' title='Overriding Symfony in a million ways' %}</tr>
+
+        {% include schedule/pause.html time='16.30-17.00' title='Coffee break' icon="coffee" %}
+
+        <tr>{% include schedule/talk.html time='17.00-17.30' title='Confessions of a Backend Developer' %}</tr>
         <tr>{% include schedule/talk.html time='17.30-18.00' title='How to open source a PHP package' %}</tr>
 
         {% include schedule/pause.html time='18.00-18.45' title='Happy hour' icon="bar" fill='true' %}

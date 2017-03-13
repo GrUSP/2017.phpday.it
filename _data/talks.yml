@@ -191,6 +191,18 @@
     and simplicity. Let's talk about growing, learning and improving our code with calisthenics, readability and good design.
 -
   speaker_id:
+    - richard-fussenegger
+  title: Confessions of a Backend Developer
+  extract: >
+    When it comes to PHP architectures and frameworks everybody is always talking about Model–View–Controller (MVC), or sometimes Action–Domain–Responder
+    (ADR). Close attention is usually paid to the Views and Controllers, as well as the whole bootstrapping required to make them work, while the
+    Model is left as an exercise to the user. This makes perfect sense from an open source point of view, as the model is always domain specific.
+    That is exactly why most work in closed source projects—like trivago—concentrates on that part. We will discuss the Clean Architecture, which
+    helps us to manage dependency hell in the domain model. We will further explore Domain-Driven Design (DDD) basics, like value objects and
+    entities, which help us to reason about the various sub-layers of the domain model. Finally, we will have a brief look at how we can use types
+    (read classes) to provide us with certain guarantees.
+-
+  speaker_id:
     - rick-kuipers
   title: The Science of Code Reviews
   extract: >
