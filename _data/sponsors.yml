@@ -39,7 +39,7 @@ diamond:
     -
       url: http://tech.trivago.com
       image: trivago.svg
-      
+
 platinum:
   price: € 3,000
   offer:
@@ -70,9 +70,6 @@ gold:
     -
       url: http://www.avanscoperta.it/?utm_source=phpday
       image: avanscoperta.svg
-    -
-      url: http://www.madisoft.it/?utm_source=phpday
-      image: madisoft.svg
 
 silver:
   price: € 500
@@ -89,6 +86,9 @@ silver:
     -
       url: https://www.siteground.it/?utm_source=phpday
       image: siteground.svg
+    -
+      url: http://www.madisoft.it/?utm_source=phpday
+      image: madisoft.svg
 
 bronze:
   price: € 300
