@@ -174,6 +174,16 @@
     It's not a drop in replacement for unit testing (or testing in general) but can help you out build great products in short amount of time.
 -
   speaker_id:
+    - nikita-popov
+  title: Static Optimization of PHP Bytecode
+  extract: >
+    The PHP compiler turns PHP code into "opcodes", which are then executed on the Zend Virtual Machine. To improve performance, it is possible
+    to optimize these opcodes prior to execution. PHP 7.1 introduces a sophisticated opcode optimization infrastructure, which uses static single
+    assignment (SSA) form and type inference to enable more advanced optimizations. This talk introduces the new optimization infrastructure,
+    the optimizations based on it, and discusses which parts of the PHP language are particularly hostile to this form of optimization. This is
+    an advanced talk, but I will try to present the topic in a way that does not require a strong compiler construction background.
+-
+  speaker_id:
     - nils-adermann
   title: Managing dependencies is more than running "composer update"
   extract: >

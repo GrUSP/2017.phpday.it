@@ -114,6 +114,13 @@ list:
     last_name: Svrtan
     twitter: msvrtan
   -
+    id: nikita-popov
+    description:
+    image: nikita-popov.jpg
+    first_name: Nikita
+    last_name: Popov
+    twitter: nikita_ppv
+  -
     id: nils-adermann
     description:
     image: nils-adermann.png
