@@ -96,3 +96,7 @@ bronze:
     - Your logo on conference website
     - 2 tickets with 10% discount
   max: 8
+  list:
+    -
+      url: http://www.facile.it?utm_source=phpday
+      image: facile.svg
