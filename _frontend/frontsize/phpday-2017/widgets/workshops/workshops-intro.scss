@@ -19,7 +19,7 @@
 
     @include media ('>=tablet-small') {
       font-size: 110px;
-      margin-top: s(-10);
+      margin-top: s(-6);
     }
 
     @include media ('>=tablet-large') {
