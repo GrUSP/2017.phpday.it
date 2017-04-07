@@ -41,6 +41,18 @@
             </a>
           </li>
         {% endif %}
+        {% if site.data.conference.talks_available %}
+        <li class="menu__item">
+          <a href="{{ site.baseurl }}/talks.html" class="menu__button">
+            Talks
+          </a>
+        </li>
+        <li class="menu__item">
+          <a href="{{ site.baseurl }}/workshops.html" class="menu__button">
+            Workshops
+          </a>
+        </li>
+        {% endif %}
         <li class="menu__item">
           {% if site.data.tickets.sold_out %}
             <span class="menu__button menu__button--sold-out">
@@ -57,13 +69,7 @@
             Sponsor
           </a>
         </li>
-        {% if site.data.conference.talks_available %}
-          <li class="menu__item">
-            <a href="{{ site.baseurl }}/talks.html" class="menu__button">
-              Talks
-            </a>
-          </li>
-        {% endif %}
+
         <li class="menu__item">
           <a href="{{ site.baseurl }}/venue.html" class="menu__button">
             Venue
