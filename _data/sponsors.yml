@@ -55,6 +55,9 @@ platinum:
     -
       url: http://www.ideato.it/?utm_source=phpday
       image: ideato.svg
+    -
+      url: http://careers.workwave.com/
+      image: workwave.svg
 
 
 gold:
