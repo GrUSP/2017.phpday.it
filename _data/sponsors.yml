@@ -73,6 +73,9 @@ gold:
     -
       url: http://www.avanscoperta.it/?utm_source=phpday
       image: avanscoperta.svg
+    -
+      url: https://caffeina.com/?utm_source_phpday
+      image: caffeina.svg
 
 silver:
   price: € 500
