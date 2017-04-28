@@ -70,13 +70,6 @@
     the power of open source to make real friends, real money, and real happiness.
 -
   speaker_id:
-    - gemma-cameron
-  title: Visualisation
-  extract: >
-    User stories, kanban boards, analytics… We all use tools to visualise and radiate information. In this talk we look at the different ways of
-    visualising, why we’re using them and if there’s another way.
--
-  speaker_id:
     - georgiana-gligor
   title: "Branching strategies: choose wisely to minimise costs"
   extract: >
@@ -130,6 +123,14 @@
     Fret not, we'll walk through each step of the PHP Package Checklist (phppackagechecklist.com), ensuring that your project is taken seriously by
     the rest of the PHP community! We'll look at setting up Composer and auto-loading, semantic versioning, writing unit tests, implementing a
     continuous integration workflow and more.
+-
+  speaker_id:
+    - jonathan-reinink
+  title: The formula to creating awesome docs
+  extract: >
+    We all like to complain about bad documentation, but how many of us actually know how to create good docs? Quality docs are vital to the success
+    of technical projects, and yet so often they're an afterthought. In this talk I'll show you very specifically how to create rock solid docs that
+    your users will love. I'll cover the ideal layout, branding principles, design techniques, syntax highlighting, content organization and more!
 -
   speaker_id:
     - marco-pivetta

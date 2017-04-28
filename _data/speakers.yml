@@ -44,13 +44,6 @@ list:
     last_name: Hockin
     twitter: GeeH
   -
-    id: gemma-cameron
-    description:
-    image: gemma-cameron.png
-    first_name: Gemma
-    last_name: Cameron
-    twitter: ruby_gem
-  -
     id: georgiana-gligor
     description:
     image: georgiana-gligor.jpg
