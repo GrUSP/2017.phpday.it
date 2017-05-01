@@ -79,6 +79,13 @@ list:
     last_name: Reinink
     twitter: reinink
   -
+    id: luis-cobucci
+    description:
+    image: luis-cobucci.jpg
+    first_name: Luis
+    last_name: Cobucci
+    twitter: lcobucci
+  -
     id: marco-pivetta
     description:
     image: marco-pivetta.jpg
@@ -92,6 +99,13 @@ list:
     first_name: Michelangelo
     last_name: Van Dam
     twitter: DragonBe
+  -
+    id: michele-orselli
+    description:
+    image: michele-orselli.jpeg
+    first_name: Michele
+    last_name: Orselli
+    twitter: _orso_
   -
     id: michelle-sanver
     description:
