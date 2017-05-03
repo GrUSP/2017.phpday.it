@@ -58,7 +58,10 @@ platinum:
     -
       url: http://careers.workwave.com/
       image: workwave.svg
-
+    -
+      url: http://www.criticalcase.com/?utm_source=phpday
+      image: criticalcase.svg
+      
 gold:
   price: € 1,000
   offer:
@@ -97,9 +100,6 @@ silver:
     -
       url: http://www.zend.com/?utm_source=phpday
       image: rogue-wave.svg
-    -
-      url: http://www.criticalcase.com/?utm_source=phpday
-      image: criticalcase.svg
     -
       url: http://www.studiomado.it/?utm_source=phpday&utm_medium=banner&utm_campaign=Verona_May_2017
       image: mado.svg
