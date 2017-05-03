@@ -61,6 +61,7 @@ platinum:
     -
       url: http://www.criticalcase.com/?utm_source=phpday
       image: criticalcase.svg
+      
 gold:
   price: € 1,000
   offer:
