@@ -115,5 +115,8 @@ bronze:
   max: 64
   list:
     -
+      url: http://www.cippest.it?utm_source=phpday
+      image: cippest.png
+    -
       url: http://www.facile.it?utm_source=phpday
       image: facile.svg
