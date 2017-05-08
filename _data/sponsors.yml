@@ -61,7 +61,10 @@ platinum:
     -
       url: http://www.criticalcase.com/?utm_source=phpday
       image: criticalcase.svg
-      
+    -
+      url: https://open.tim.it
+      image: tim.svg
+
 gold:
   price: € 1,000
   offer:
